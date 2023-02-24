@@ -6,7 +6,7 @@ go 1.13
 
 require (
 	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
+	golang.org/x/net v0.7.0
 	google.golang.org/genproto v0.0.0-20190502173448-54afdca5d873 // indirect
 	google.golang.org/grpc v1.23.1
 	k8s.io/api v0.0.0
